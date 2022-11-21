@@ -12,6 +12,7 @@ from mcgpy.channel import ChannelConfig
 __credit__='AMCG'
 __version__='0.0.1'
 __author__ = 'WonSik.Jung <rother12@hanmail.net>'
+__all__=['get_Configure_Setting','Check_R_Peak,Averaging_R_peak','projection','Gram_Schmidt','projection_Operation','eye_projection']
 
 ''' Reference
 Fetal MEG Redistribution by Projection Operators(2004, Jiri Vrba)
