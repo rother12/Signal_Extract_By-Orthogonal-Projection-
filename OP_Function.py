@@ -9,15 +9,9 @@ from mcgpy.timeseries import TimeSeries
 from mcgpy.timeseries import TimeSeriesArray
 from mcgpy.channel import ChannelConfig
 
-__author__='wonsik.Jung'
 __credit__='AMCG'
 __version__='0.0.1'
-
-
-
-
-__version__ = "0.1.1"
-__author__ = 'WonSik Jung <rother12@hanmail.net>'
+__author__ = 'WonSik.Jung <rother12@hanmail.net>'
 
 ''' Reference
 Fetal MEG Redistribution by Projection Operators(2004, Jiri Vrba)
